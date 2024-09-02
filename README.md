@@ -1,1 +1,3 @@
-# Assignment-1-Object-Oriented-Programming
+The purpose of this project was to create a program that can edit the inventory of a dataset using classes and methods.
+I was able to make class attributes for the Car class. These were manufacturer, model, year, mileage, engine, transmission, drivetrain, mpg, exterior color, interior color, accident, and car price. The methods for the Car class were Paint, Repair, Reupholster, Drive, and Modify_Price. The class attributes for the Seller class were name, rating, and inventory. The methods for the Seller class were buy and sell. 
+I could not figure out a way to add any limitations to the code, but I know that I should add limitations to the part being replaced for the Repair method, add a range for the year of the car so that it can't be 2077 or 1800, and Modify_Price, mpg, car price, and year should have a limitation that does not allow for negative inputs.
